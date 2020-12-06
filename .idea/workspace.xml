@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="react_1-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +74,7 @@
       <workItem from="1607204901681" duration="212000" />
       <workItem from="1607279046887" duration="5128000" />
       <workItem from="1607286793219" duration="2389000" />
-      <workItem from="1607293858943" duration="1424000" />
+      <workItem from="1607293858943" duration="2176000" />
     </task>
     <task id="LOCAL-00001" summary="react 1-2">
       <created>1607294755864</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607294879529</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="react 1-2">
+      <created>1607295291342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607295291342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
